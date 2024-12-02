@@ -1,0 +1,14 @@
+/home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/bin/Debug/net8.0/ConvertTemperature
+/home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/bin/Debug/net8.0/ConvertTemperature.deps.json
+/home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/bin/Debug/net8.0/ConvertTemperature.runtimeconfig.json
+/home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/bin/Debug/net8.0/ConvertTemperature.dll
+/home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/bin/Debug/net8.0/ConvertTemperature.pdb
+/home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/obj/Debug/net8.0/ConvertTemperature.GeneratedMSBuildEditorConfig.editorconfig
+/home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/obj/Debug/net8.0/ConvertTemperature.AssemblyInfoInputs.cache
+/home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/obj/Debug/net8.0/ConvertTemperature.AssemblyInfo.cs
+/home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/obj/Debug/net8.0/ConvertTemperature.csproj.CoreCompileInputs.cache
+/home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/obj/Debug/net8.0/ConvertTemperature.dll
+/home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/obj/Debug/net8.0/refint/ConvertTemperature.dll
+/home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/obj/Debug/net8.0/ConvertTemperature.pdb
+/home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/obj/Debug/net8.0/ConvertTemperature.genruntimeconfig.cache
+/home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/obj/Debug/net8.0/ref/ConvertTemperature.dll

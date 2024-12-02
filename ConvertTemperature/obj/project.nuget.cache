@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fA8G/j24z7vAVq/qKv87HBlt5/FB5YWydmmSEecp9krepoLBsnYuf9SWgpe1aMSeRDIJOImHAaNxuHBt8xlVDw==",
+  "success": true,
+  "projectFilePath": "/home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/ConvertTemperature.csproj",
+  "expectedPackageFiles": [
+    "/home/luiz/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
