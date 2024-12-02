@@ -12,3 +12,4 @@
 /home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/obj/Debug/net8.0/ConvertTemperature.pdb
 /home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/obj/Debug/net8.0/ConvertTemperature.genruntimeconfig.cache
 /home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/obj/Debug/net8.0/ref/ConvertTemperature.dll
+/home/luiz/coisasqueeuuso/Codigos/TempConversion/ConvertTemperature/obj/Debug/net8.0/ConvertTemperature.sourcelink.json
